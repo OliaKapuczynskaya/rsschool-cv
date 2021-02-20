@@ -6,3 +6,23 @@
 ------------
 ###  Employee’s Overview
 ***I am an EPAM financial analyst*** on a maternity leave and I am ***a super-loyal employee*** who loves being a part of EPAM's community. I had worked as an economist for 5+ years, when I took a web development course and fell in love with programming. I am a really ***hard-working*** and ***result-oriented*** person. I never stop ***improving my skills***. I am both good at being a ***team-player and working individually***. I have ***worked in many different sectors*** including manufacturing, construction, retail and IT, so I am certain I can make a valuable addition to any project I am involved in. I have a nice sense of humor, love reading, solving puzzles and drawing illustrations.
+
+------------
+
+### Skills
+- JavaScript
+- React JS
+- HTML, CSS
+- Dart (Flutter)
+- GIT
+- Adobe (Illustrator, Photoshop)
+
+------------
+
+### Code example
+```javascript
+    function rollDice(min, max) {
+    	return min + Math.floor(Math.random() * (max-min + 1));
+    }
+    const rollDice4 = () => rollDice(1, 6); 
+```
