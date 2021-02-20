@@ -1,0 +1,3 @@
+# Volha Kuchynskaya
+
+![Telegram](https://raw.githubusercontent.com/OliaKapuczynskaya/rsschool-cv/1a4291ec35ed421cbe39255fcababb7e01677fc2/icons/Skype.ico) soloviova_os ![GitHub](https://raw.githubusercontent.com/OliaKapuczynskaya/rsschool-cv/1a4291ec35ed421cbe39255fcababb7e01677fc2/icons/Discord.ico) OliaKapuczynskaya  ![mail](https://raw.githubusercontent.com/OliaKapuczynskaya/rsschool-cv/1a4291ec35ed421cbe39255fcababb7e01677fc2/icons/Mail.ico) volyas1@gmail.com ![viber](https://raw.githubusercontent.com/OliaKapuczynskaya/rsschool-cv/1a4291ec35ed421cbe39255fcababb7e01677fc2/icons/Viber.ico) +48883961421 ![telegram](https://raw.githubusercontent.com/OliaKapuczynskaya/rsschool-cv/1a4291ec35ed421cbe39255fcababb7e01677fc2/icons/Telegram.ico) OliaKuchinskaya
