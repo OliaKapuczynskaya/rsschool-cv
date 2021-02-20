@@ -26,3 +26,30 @@
     }
     const rollDice4 = () => rollDice(1, 6); 
 ```
+
+------------
+
+### Working experience
+- **Web Developer**: Will be updated soon ;)
+- **Financial Analyst**: 2014 –  Present (EPAM Systems, Inc., Smolevichi Moloko CJSC, Unimit CJSC, NP-Service)
+
+------------
+
+### Education
++ **Higher education**
+    + Belarus State Economic University, International Economic Relations Faculty
++ **Web development courses**
+    * The Complete JavaScript Course 2021: From Zero to Expert!
+    * Build Responsive Real World Websites with HTML5 and CSS3
+    * React - The Complete Guide (incl Hooks, React Router, Redux)
+    * Web Design for Web Developers: Build Beautiful Websites!
+    * The React practice course Created by Coding Revolution (*in progress* )
+    * The Complete 2021 Flutter Development Bootcamp with Dart
+
+------------
+
+### Language Skills 
+- **English – B2+** (*according to EPAM’s evaluation*)
+- Russian – Native
+- Polish – A1
+- Spanish – A1
