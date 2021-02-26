@@ -1,0 +1,143 @@
+* {
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lato', 'Arial', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    color: #464547;
+    border: 7px solid #39c2d7;
+
+}
+
+/*-------------REUSABLE COMPONENTS--------------*/
+section {
+    padding: 10px;
+    margin: 10px 20px 0px 20px;
+}
+
+.small-image {
+    height: 20px;
+    margin: 0px 5px 0 5px;
+}
+
+section h3 {
+    font-size: 120%;
+    font-weight: 600;
+    border-bottom: 5px solid #a3c644;
+}
+
+li {
+    margin-left: 15px;
+}
+
+h4 {
+    font-weight: 400;
+}
+
+strong {
+    font-weight: 400;
+}
+
+/*--------------------HEADER--------------------*/
+header {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.avatar {
+    height: 250px;
+    margin: 30px 20px 0 20px;
+    border: 5px solid #39c2d7;
+    border-radius: 10%;
+}
+
+
+h1 {
+    margin: 30px 0 15px 0;
+    text-align: center;
+    font-size: 200%;
+    font-weight: 600;
+    color: #39c2d7;
+
+}
+
+h2 {
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 120%;
+    font-weight: 600;
+    color: #a3c644;
+
+}
+
+.contact-data {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin-right: 20px;
+    font-size: 75%;
+    background-color: rgb(57, 194, 215, 10%);
+
+}
+
+.data-adress {
+    border-radius: 10px 10px 0px 0px;
+}
+
+.data-other {
+    border-radius: 0px 0px 10px 10px;
+}
+
+.personal-overview {
+    padding: 10px;
+    margin: 15px 20px 0 0;
+    background-color: rgb(57, 194, 215, 10%);
+    border-radius: 10px;
+}
+
+/*--------------------CODE EXAMPLE--------------------*/
+
+.code-example p {
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding: 15px;
+    margin: 5px 20px 0px;
+    font-size: 75%;
+    background-color: rgb(70, 69, 71, 25%);
+    border-radius: 10px;
+}
+
+/*--------------------OTHER----------------------------*/
+.courses {
+    font-weight: 400;
+    font-style: italic;
+    color: #39c2d7;
+}
+
+/*--------------------MEDIA QUERIES--------------------*/
+
+@media only screen and (max-width: 900px) {
+    header {
+        -webkit-box-align: flex-start;
+        -ms-flex-align: flex-start;
+        align-items: flex-start;
+    }
+}
